@@ -190,7 +190,7 @@ main {
   align-items: center;
   width: 100%;
   background-color: var(--color-secondary-600);
-  background-image: url('/images/bg-boost-desktop.svg');
+  background-image: url('images/bg-boost-desktop.svg');
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 2.4rem;
@@ -380,7 +380,7 @@ main {
 #boost {
   text-align: center;
   background-color: var(--color-secondary-600);
-  background-image: url('/images/bg-boost-desktop.svg');
+  background-image: url('images/bg-boost-desktop.svg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
